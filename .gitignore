@@ -1,0 +1,9 @@
+target/
+allure-results/
+extent-reports/
+execution-summary/
+.idea/
+*.iml
+.omc/
+generate_allure_report.bat
+generate_allure_report.sh
